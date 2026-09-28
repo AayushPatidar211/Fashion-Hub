@@ -1,0 +1,6 @@
+{
+  "name": "StyleCart – Fashion E-Commerce Platform",
+  "description": "Production-style full-stack clothing e-commerce web platform built with Java Spring Boot, Spring Security, JWT, MySQL, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
